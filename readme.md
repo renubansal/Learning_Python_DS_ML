@@ -4,9 +4,7 @@ Task Sheet - Day 1
 
 1. Take an arithmetic expression as input and solve it.
 eg. python arithSolver.py 6+5*4/5
-### Click [here](https://github.com/renubansal/WinterWorkshopTask/1arthSolver.py) 
-### Click [here](https://github.com/renubansal/WinterWorkshopTask/Task-1/10exception)
-
+### Click [here]( WinterWorkshopTask/1arthSolver.py )
 2. Take a bunch of strings as input and output them in alphabetical order.
      eg. python strSorter.py igit igdtuw india
 
