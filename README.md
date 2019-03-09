@@ -3,7 +3,7 @@
 
 ### Task: Day 1
 
-1. Take an arithmetic expression as input and solve it.  
+1. Take an arithmetic expression as input and solve it.  [Solution]()
     eg. python arithSolver.py 6+5*4/5
 2. Take a bunch of strings as input and output them in alphabetical order.  
     eg. python strSorter.py igit igdtuw india  
