@@ -22,7 +22,7 @@ Unzip downloaded chrome webdriver /firefox driver file.
   sudo chmod A+x  chromedriver  
 #### For Firefox browser-
 Go to the geckodriver releases page. Find the latest version of the driver for your platform and download it. For example:
-wget  https://github.com/mozilla/geckodriver/releases/download/v0.18.0/geckodriver-v0.18.0-linux64.tar.gz
+wget  https://github.com/mozilla/geckodriver/releases/download/v0.18.0/geckodriver-v0.18.0-linux64.tar.gz  
 Extract the file with:  
  tar -xvzf geckodriver*  
 Make it executable:  
@@ -36,3 +36,4 @@ sudo apt install nodejs-legacy
 sudo apt-get install npm   
 sudo pip install Appium-Python-Client  
 
+## P.S. Always go for latest version
