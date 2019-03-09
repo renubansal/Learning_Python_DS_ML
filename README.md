@@ -36,3 +36,5 @@ Initial Step is to generate ID using Facebook API.
  or
  [Code](../master/collectTweets.py)
  
+ ## Understanding Read and Write in Excel File
+ [Code](../master/SocialHandlerCollector.py)
