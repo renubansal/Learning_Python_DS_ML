@@ -18,7 +18,7 @@
 9. Read the variable created above, randomly change marks of students and store them in a file such that each student’s details is in one single line.  [Solution](../Task-1/9listToFile.py)  
 10. Write a program that creates a divide by zero exception. [Solution](../Task-1/10exception.py)  
 
-## Facebook API
+## Understanding Facebook API
 
 Initial Step is to generate ID using Facebook API.
 
@@ -26,3 +26,9 @@ Initial Step is to generate ID using Facebook API.
 [Code](../master/pagePostFB.py)
 2. Fetch post with pagination (retrieves all post on a page) 
 [Code](../master/fbPagination.py)
+ 
+ ## Understanding Twitter API
+ 
+ Retrieve tweets for screen_name and store it in json format (Using Twython)
+ [Code](../master/retrieveTweets.py)
+ 
