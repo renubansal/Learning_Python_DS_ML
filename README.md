@@ -31,4 +31,6 @@ Initial Step is to generate ID using Facebook API.
  
  Retrieve tweets for screen_name and store it in json format (Using Twython)
  [Code](../master/retrieveTweets.py)
+ or
+ [Code](../master/collectTweets.py)
  
