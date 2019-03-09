@@ -26,6 +26,8 @@ Initial Step is to generate ID using Facebook API.
 [Code](../master/pagePostFB.py)
 2. Fetch post with pagination (retrieves all post on a page) 
 [Code](../master/fbPagination.py)
+3. Using selenium to login at Facebook
+[Code](../master/fbSelenium.py)
  
  ## Understanding Twitter API
  
